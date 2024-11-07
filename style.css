@@ -1,0 +1,48 @@
+.kontainer{
+    display: flex;
+    border: color(white red green blue);
+}
+.satu{
+    text-align: center;
+    background-color: aquamarine;
+    height: 670px;
+    width: 200px;
+    border: solid;
+    margin: auto;
+}
+.dua{
+    text-align: center;
+    background-color: rgb(66, 192, 192);
+    height: 670px;
+    width: 200px;
+    border: solid;
+    margin: auto;
+}
+.tiga{
+    text-align: center;
+    background-color: rgb(74, 118, 119);
+    height: 670px;
+    width: 200px;
+    border: solid;
+    margin: auto;
+}
+.empat{
+    text-align: center;
+    background-color: rgb(23, 56, 56);
+    height: 670px;
+    width: 200px;
+    border: solid;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: rgb(241, 132, 7);
+    text-shadow: .1em .1em rgb(204, 248, 7) ;
+}
+.body{
+    background-color: bisque;
+}
+h3{
+    color: rgb(55, 75, 75);
+    text-shadow: .1em .1em rgb(142, 146, 146);
+}
